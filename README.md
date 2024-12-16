@@ -1,7 +1,16 @@
-# WELCOME TO MY PAGE👋
+## WELCOME TO MY PAGE👋
 
+My name is NGOC THINH. I am passionate about technology and software development.  I enjoy creating projects that solve real-world problems and continuously improving my skills in coding and development.
+
+## 📫How to reach me:
+<div>
+    <p style="display: flex; align-items: center;">
+      <img src="https://img.icons8.com/?size=30&id=13930&format=png&color=000000"  targe="_blank" />
+      <a  href="https://www.linkedin.com/in/th%E1%BB%8Bnh-nguy%E1%BB%85n-446656321/" targe="_blank">Linkedin</a>
+    </p>
+</div>
 <!--
-**nguyenvietngocthinh/nguyenvietngocthinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -10,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
