@@ -1,4 +1,4 @@
-## WELCOME TO MY PAGE👋
+# WELCOME TO MY PAGE👋
 
 <!--
 **nguyenvietngocthinh/nguyenvietngocthinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
