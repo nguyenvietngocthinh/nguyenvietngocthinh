@@ -3,14 +3,11 @@
 My name is NGOC THINH. I am passionate about technology and software development.  I enjoy creating projects that solve real-world problems and continuously improving my skills in coding and development.
 
 ## 📫How to reach me:
-<div>
-    <p style="display: flex; align-items: center;">
-      <a href="https://www.linkedin.com/in/th%E1%BB%8Bnh-nguy%E1%BB%85n-446656321/" target="_blank" style="text-decoration: none; color: black;">
-        <img src="https://img.icons8.com/?size=30&id=13930&format=png&color=000000" alt="LinkedIn Icon" style="margin-right: 5px;"> 
-        Linkedin
-      </a>
-    </p>
-</div>
+[![LinkedIn](https://img.icons8.com/?size=17&id=QSqKhX2FC4oX&format=png&color=000000)](https://www.linkedin.com/in/th%E1%BB%8Bnh-nguy%E1%BB%85n-446656321/) Linkedin
+[![LGitHub](https://img.icons8.com/?size=20&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/nguyenvietngocthinh/) GitHub
+[![Gmail](https://img.icons8.com/?size=17&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:dylan.nguyenthinh@gmail.com) Gmail
+
+
 <!--
 
 
