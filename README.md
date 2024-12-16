@@ -8,6 +8,8 @@ My name is NGOC THINH. I am passionate about technology and software development
 [![Gmail](https://img.icons8.com/?size=17&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:dylan.nguyenthinh@gmail.com) Gmail
 
 
+![Ngoc Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenvietngocthinh&hide=contribs,issues,prs&show_icons=true&theme=radical)
+
 <!--
 
 
